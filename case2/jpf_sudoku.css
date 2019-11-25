@@ -51,4 +51,9 @@ table.subTable td{
    height: 40px;
    text-align: center;
 }
-
+td.goldBox td{
+   background-color:rgb(203, 199, 42);
+}
+td.greenBox td{
+   background-color: rgb(203, 229, 130);
+}
